@@ -1,27 +1,49 @@
 <div align="center">
-  <img src="assets/icon.png" alt="JarvisArt Icon" width="100"/>
+  <img src="assets/logo.png" alt="JarvisArt Icon" width="100"/>
 
-  # JarvisArt
-
-  **JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent**
-
+  # JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent
+  <!-- **JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent** -->
   <a href="https://arxiv.org/pdf/2506.17612"><img src="https://img.shields.io/badge/arXiv-2506.17612-b31b1b.svg" alt="Paper"></a>
   <a href="https://jarvisart.vercel.app/"><img src="https://img.shields.io/badge/Project%20Page-Visit-blue" alt="Project Page"></a>
   <a href="https://github.com/LYL1015/JarvisArt"><img src="https://img.shields.io/github/stars/LYL1015/JarvisArt?style=social" alt="GitHub Stars"></a>
   </div>
 
+<div align="center">
+  <p>
+    <a href="https://lyl1015.github.io/">Yunlong Lin</a><sup>1*</sup>, 
+    <a href="https://github.com/iendi">Zixu Lin</a><sup>1*</sup>, 
+    <a href="https://github.com/kunjie-lin">Kunjie Lin</a><sup>1*</sup>, 
+    <a href="https://noyii.github.io/">Jinbin Bai</a><sup>5</sup>, 
+    <a href="https://paulpanwang.github.io/">Panwang Pan</a><sup>4</sup>, 
+    <a href="https://chenxinli001.github.io/">Chenxin Li</a><sup>3</sup>, 
+    <a href="https://haoyuchen.com/">Haoyu Chen</a><sup>2</sup>, 
+    <a href="https://zhongdao.github.io/">Zhongdao Wang</a><sup>6</sup>, 
+    <a href="https://scholar.google.com/citations?user=k5hVBfMAAAAJ&hl=zh-CN">Xinghao Ding</a><sup>1†</sup>,
+    <a href="https://fenglinglwb.github.io/">Wenbo Li</a><sup>3♣</sup>,
+    <a href="https://yanshuicheng.info/">Shuicheng Yan</a><sup>5†</sup> 
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <sup>1</sup>Xiamen University, <sup>2</sup>The Hong Kong University of Science and Technology (Guangzhou), <sup>3</sup> The Chinese University of Hong Kong, <sup>4</sup>Bytedance, <sup>5</sup>National University of Singapore, <sup>6</sup>Tsinghua University
+  </p>
+  <!-- <sup>*</sup>Equal Contributions <sup>♣</sup>Project Leader <sup>†</sup>Corresponding Author -->
+  <!-- <p>Accepted by CVPR 2025</p> -->
+</div>
+
 ---
 
 ## 📮 Updates
 
-- **[Coming Soon]** 🚀 Inference code will be released first
-- **[Coming Soon]** 🎯 Training code will be released
-- **[Current]** 📄 Paper is now available on arXiv
-- **[Current]** 🌐 Project page is live
+- **[Coming Soon]** 🚀 Gradio demo and Hugging Face demo will be released first.
+- **[Coming Soon]** 🎯 Training and inference code will be released.
+- **[2025.06]** 📄 Paper is now available on arXiv.
+- **[2025.06]** 🌐 Project page is live.
 
 ---
 
-## Overview
+## 📝 Overview
 
 <div align="center">
   <img src="assets/teaser.jpg" alt="JarvisArt Teaser" width="800"/>
@@ -33,6 +55,32 @@ JarvisArt is a multi-modal large language model (MLLM)-driven agent for intellig
 
 ---
 
+## 🎬 Demo Videos
+
+<!-- <div align="center">
+  <video width="800" controls>
+    <source src="assets/demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <p>JarvisArt Demo Video: Showcasing intelligent photo retouching capabilities</p>
+</div> -->
+
+<!-- <div align="center">
+  <img src="assets/demo1.gif" alt="JarvisArt Demo" width="800px">
+  <p>JarvisArt Interactive Retouching Demonstration</p>
+</div>
+
+<div align="center">
+  <img src="assets/demo2.gif" alt="JarvisArt Demo" width="800px">
+  <p>JarvisArt Multimodal Instruction Understanding and Execution</p>
+</div> -->
+
+<div align="center">
+  <img src="assets/gradio_demo1.gif" alt="JarvisIR Demo" width="800px">
+  <p>JarvisArt supports multi-granularity retouching goals, ranging from scene-level adjustments to region-specific refinements. Users can perform intuitive, free-form edits through natural inputs such as text prompts and bounding boxes</p>
+</div>
+
+
 ## 🎪 Checklist
 
 - [x] Create repo and project page
@@ -42,14 +90,14 @@ JarvisArt is a multi-modal large language model (MLLM)-driven agent for intellig
 
 ---
 
-## Citation
+## 📚 Citation
 
 If you find JarvisArt useful in your research, please consider citing:
 
 ```bibtex
 @article{jarvisart2025,
 title={JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo Retouching Agent}, 
-      author={Yunlong Lin and Zixu Lin and Kunjie Lin and Jinbin Bai and Panwang Pan and Chenxin Li and Haoyu Chen and Zhongdao       Wang and Xinghao Ding and Wenbo Li and Shuicheng Yan},
+      author={Yunlong Lin and Zixu Lin and Kunjie Lin and Jinbin Bai and Panwang Pan and Chenxin Li and Haoyu Chen and Zhongdao Wang and Xinghao Ding and Wenbo Li and Shuicheng Yan},
       year={2025},
       journal={arXiv preprint arXiv:2506.17612}
 }
@@ -57,6 +105,16 @@ title={JarvisArt: Liberating Human Artistic Creativity via an Intelligent Photo 
 
 ---
 
+
+## 📧 Contact
+
+For any questions or inquiries, please reach out to us:
+
+- **Yunlong Lin**: linyl@stu.xmu.edu.cn
+- **Zixu Lin**: a860620266@gmail.com
+<!-- - **Kunjie Lin**: a860620266@gmail.com -->
+
+---
 
 <div align="center">
   <sub>🎨 Liberating Human Artistic Creativity, One Photo at a Time 🎨</sub>
