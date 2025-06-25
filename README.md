@@ -122,6 +122,12 @@ For any questions or inquiries, please reach out to us:
 
 ---
 
+<p align="center">
+  <a href="https://star-history.com/#LYL1015/JarvisArt&Date">
+    <img src="https://api.star-history.com/svg?repos=LYL1015/JarvisArt&type=Date" alt="Star History Chart">
+  </a>
+</p>
+
 <div align="center">
   <sub>🎨 Liberating Human Artistic Creativity, One Photo at a Time 🎨</sub>
 </div>
