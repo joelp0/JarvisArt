@@ -74,12 +74,17 @@ JarvisArt is a multi-modal large language model (MLLM)-driven agent for intellig
   <img src="assets/demo2.gif" alt="JarvisArt Demo" width="800px">
   <p>JarvisArt Multimodal Instruction Understanding and Execution</p>
 </div> -->
-
+Global Retouching Case
 <div align="center">
-  <img src="assets/gradio_demo1.gif" alt="JarvisIR Demo" width="800px">
-  <p>JarvisArt supports multi-granularity retouching goals, ranging from scene-level adjustments to region-specific refinements. Users can perform intuitive, free-form edits through natural inputs such as text prompts and bounding boxes</p>
+  <img src="assets/global_demo1.gif" alt="JarvisArt Demo" width="800px">
+  <p></p>
 </div>
 
+Local Retouching Case
+<div align="center">
+  <img src="assets/local_demo1.gif" alt="JarvisArt Demo" width="800px">
+  <p>JarvisArt supports multi-granularity retouching goals, ranging from scene-level adjustments to region-specific refinements. Users can perform intuitive, free-form edits through natural inputs such as text prompts and bounding boxes</p>
+</div>
 
 ## 🎪 Checklist
 
@@ -112,7 +117,7 @@ For any questions or inquiries, please reach out to us:
 
 - **Yunlong Lin**: linyl@stu.xmu.edu.cn
 - **Zixu Lin**: a860620266@gmail.com
-<!-- - **Kunjie Lin**: a860620266@gmail.com -->
+- **Kunjie Lin**: linkunjie@stu.xmu.edu.cn 
 
 ---
 
